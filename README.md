@@ -8,7 +8,7 @@ Time spent: **10** hours spent in total
 
 ## Summary
 
-Profile is an Android app that creates a profile to introduce ourselves to the neighborhood squirrel 🐿.  
+"Hello, World!" is an Android app that creates a profile to introduce ourselves to the neighborhood squirrel 🐿.  
 
 
 ## Application Features
