@@ -8,9 +8,8 @@ Time spent: **10** hours spent in total
 
 ## Summary
 
-BioPage is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+Profile is an Android app that creates a profile to introduce ourselves to the neighborhood squirrel 🐿.  
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
