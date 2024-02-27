@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://drive.google.com/file/d/15OwR49r26rXoFcYo-W-NJ8nJingudIwn/view?usp=sharing' title='Unit 1' width='' alt='Unit 1' />
+https://drive.google.com/file/d/15OwR49r26rXoFcYo-W-NJ8nJingudIwn/view?usp=sharing
 
 GIF created with ScreenToGIF
 
