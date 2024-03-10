@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-http://lnkiy.in/DemoFunction
+![Unit 1](https://github.com/JJC3321/Android_Project_1/assets/122761865/ff8697c0-dbf1-487b-a5c9-64ca2da4e53f)
 
 GIF created with ScreenToGIF
 
